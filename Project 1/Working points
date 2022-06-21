@@ -1,0 +1,5 @@
+1. Improve : you should present a critical discussion of why and how you have scaled or not scaled the data. More theory and disscussion in report
+2. Use more plots on exercise 1 to describe and help understand both data and scores e.g heatplots, scatterplots etc.
+3. Improve and format prints so the scores and values are easier to read and use in talking points store values and make a table.
+4. Create easy to use classes/functions and code that is easy to reuse in next exercises instead of writing new for everything. Try to plan ahead which functions and classes are needed in different exercise (UML diagram?)
+5. Rewrite project 1 into a report instead of Notebook. 
