@@ -1,5 +1,5 @@
 # FYS-STK4155 - Applied Data Analysis and Machine Learning
-Github repository for our project in FYS-STK4155 - Applied Data Analysis and Machine Learning
+Github repository for our project in FYS-STK4155 - Applied Data Analysis and Machine Learning.
 
 
 Oliwia Malinowska and Svein-Magnus Lommerud
